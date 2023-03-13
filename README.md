@@ -1,3 +1,3 @@
-# afa
+# 161AFA
 exercises
 ### Day 1
