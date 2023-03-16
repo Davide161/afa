@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main () {
+    system("shutdown");
     char stringa[] = "";
     printf("scrivi una parola\n");
     scanf(" %s", stringa);
